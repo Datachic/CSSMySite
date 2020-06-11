@@ -1,0 +1,50 @@
+body{
+  margin:10px;
+}
+
+div{
+  margin: 0;
+  border: 0;
+}
+
+div{
+  width: 450px;
+  height: 300px;
+}
+
+.top-container{
+  background-color: #e3fdfd;
+  border: 10px solid;
+  padding: 20px;
+}
+
+.middle-container{
+  background-color: red;
+  border: 20px solid;
+  margin-left: 510px
+}
+
+.bottom-container{
+  background-color: gold;
+  border: 10px solid;
+  margin-left: 1000px
+}
+.top1{
+  width: 100%;
+  height:100px;
+}
+.top{
+  width:147px;
+  height:99%;
+  background-color:white;
+  border:1px  solid black;
+  float: left;
+}
+.out, .out3, .in2, .mid, .mid3{
+  background-color: red;
+
+}
+p{
+  margin-bottom: 0;
+  margin-top: 10px;
+}
