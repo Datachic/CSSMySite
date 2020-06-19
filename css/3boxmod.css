@@ -1,7 +1,7 @@
 body{
   margin: 10px;
   background-color:white;
-  
+
 }
 
 div{
@@ -56,6 +56,8 @@ img{
   background-color:white;
   border:1px  solid black;
   float: left;
+  padding:auto;
+  text-align: center;
 }
 .out, .out3, .in2, .mid, .mid3{
   background-color: red;
